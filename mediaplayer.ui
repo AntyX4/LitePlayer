@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MediaPlayer</class>
+ <widget class="QMainWindow" name="MediaPlayer">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>747</width>
+    <height>492</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>LitePlayer</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="MediaPlayer.qrc">
+    <normaloff>:/MediaPlayer/138701-200.png</normaloff>:/MediaPlayer/138701-200.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="MediaPlayer.qrc"/>
+ </resources>
+ <connections/>
+</ui>

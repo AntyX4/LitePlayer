@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/MediaPlayer">
+        <file>138701-200.png</file>
+        <file>fullscreen.png</file>
+        <file>info.png</file>
+        <file>logoqt.png</file>
+        <file>open-folder.png</file>
+        <file>pause.png</file>
+        <file>pauseVideo.png</file>
+        <file>play.png</file>
+        <file>playVideo.png</file>
+        <file>screenshot.png</file>
+        <file>sound_speaker.png</file>
+        <file>sound_speaker_muted.png</file>
+        <file>stop.png</file>
+        <file>stopVideo.png</file>
+        <file>vinyl.png</file>
+        <file>rotate2.webp</file>
+    </qresource>
+</RCC>
